@@ -1,0 +1,111 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask instance folder
+instance/
+.webassets-cache
+
+# Pyenv
+.python-version
+
+# Virtualenv / envs
+env/
+venv/
+ENV/
+.env
+.venv/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+*.iml
+
+# Pytest cache
+.pytest_cache/
+
+# Editor backups and temporary files
+*~
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+logs/
+tmp/
+temp/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Project data and large artifacts (ignore by default)
+# If you want to keep specific dataset or geojson files in git,
+# add exceptions below (e.g., !dataset/important.csv)
+dataset/
+geojson/
+old_backups/
+avatar/
+
+# Secrets and keys
+*.env
+*.key
+*.pem
+secrets.json
+
+# Python wheel cache
+pip-wheel-metadata/
+
+# Misc
+*.egg
+
